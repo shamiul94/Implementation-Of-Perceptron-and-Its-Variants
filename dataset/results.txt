@@ -1,0 +1,4 @@
+Reward and Punishment
+
+sample no.: 245. feature value: [0.447113658, 3.615840807, 6.703297733, 9.053806103]. actual class: 1. predicted class: 2
+Accuracy: 99.75
